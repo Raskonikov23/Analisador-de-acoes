@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Analisador de Ações
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -91,3 +92,6 @@ analisador-de-acoes/
 ## Licença
 
 MIT. Veja [LICENSE](LICENSE).
+=======
+# Analisador_de_A-es
+>>>>>>> f3cbccf3efbd01bfc293c0b1d49dca18fe742ea2
